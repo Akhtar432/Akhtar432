@@ -1,8 +1,3 @@
-#Hi 👋, I'm Intezar Akhtar
-
-🚀 Full Stack Web Developer | CSE Graduate (2024)
-💻 Passionate about building scalable web apps and solving real‑world problems with clean, efficient code.
-
 # 💫 About Me:
 I’m a Full Stack Developer with hands‑on experience in React, Node.js, JavaScript, and C++. I enjoy turning ideas into production‑ready applications and constantly sharpening my problem‑solving skills through DSA and system‑level thinking.<br><br>🎓 B.Tech in Computer Science & Engineering (2024)<br><br>💼 Full Stack Developer Intern @ Ennovations Techserv Pvt. Ltd.<br><br>🌱 Currently improving DSA, System Design, and Backend APIs<br><br>🎯 Goal: Crack SDE roles and build impactful products
 
