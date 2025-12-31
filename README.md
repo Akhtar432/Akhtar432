@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m a Full Stack Developer with hands‑on experience in React, Node.js, JavaScript, and C++. I enjoy turning ideas into production‑ready applications and constantly sharpening my problem‑solving skills through DSA and system‑level thinking.<br><br>🎓 B.Tech in Computer Science & Engineering (2024)<br><br>💼 Full Stack Developer Intern @ Ennovations Techserv Pvt. Ltd.<br><br>🌱 Currently improving DSA, System Design, and Backend APIs<br><br>🎯 Goal: Crack SDE roles and build impactful products
+I’m a Full Stack Developer with hands‑on experience in React, Node.js, JavaScript, and C++. I enjoy turning ideas into production‑ready applications and constantly sharpening my problem‑solving skills through DSA and system‑level thinking.<br><br>🎓 B.Tech in Computer Science & Engineering (2024)<br><br>💼 Full Stack Developer Intern @ Ennovations Techserv Pvt. Ltd.<br><br>🌱 Currently improving DSA, System Design, and Backend APIs<br><br>🎯 Goal: Crack SDE roles and build impactful products
 
 
 ## 🌐 Socials:
